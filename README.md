@@ -17,3 +17,7 @@ cd CoronaVirusTrackerJava
 
 # navigate to http://localhost:8080/ in a browser
 ```
+## 📦 Tech Stack 
+* Java
+* Spring Boot
+* HTML/Bootstrap
